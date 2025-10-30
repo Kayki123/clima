@@ -1,0 +1,23 @@
+
+  body {
+    font-size: 25PX;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url('../image/paisagem-urbana-e-montanha-sob-as-nuvens-tempestuosas.jpg');
+    background-size: 2000px;
+    color: #ffffff;
+    line-height: 1.6;
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    overflow: hidden;
+  
+  }
+  .con {
+    position: relative;
+    text-align: center;
+    width: auto;
+    height: auto;
+    background-color: rgba(16, 36, 39, 0.822);
+   border-radius: 8%;
+   border-style:double;
+  }
